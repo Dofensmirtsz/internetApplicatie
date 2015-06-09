@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Date;
 
-public class TicTacToeServer extends JFrame
+public class TouwtjeTrekkenServer extends JFrame
     implements TicTacToeConstants {
   public static void main(String[] args) {
     TicTacToeServer frame = new TicTacToeServer();
